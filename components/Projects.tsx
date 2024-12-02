@@ -7,14 +7,14 @@ const projects = [
     title: "GoJek Clone",
     description: "A clone of the landing page of the Gojek Super App.",
     // image: "/placeholder.svg?height=200&width=300",
-    link: "https://github.com/yourusername/e-commerce-platform",
+    link: "https://github.com/Hrmn-07/gojek-clone",
   },
   {
     id: 2,
     title: "Portfolio Webpage",
     description: "This website you are currently looking at right now.",
     // image: "/placeholder.svg?height=200&width=300",
-    link: "https://github.com/yourusername/task-management-app",
+    link: "https://portfolio-page-herman.vercel.app/",
   },
   {
     id: 3,
